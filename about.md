@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: CodeRefinery Workshop
 ---
 
 Brief text about the project ...
